@@ -1,2 +1,2 @@
 # bookbot
-Boot.dev bookbot project
+Boot.dev bookbot project in the python track
